@@ -130,8 +130,9 @@ const styles = StyleSheet.create({
     maxWidth: 400,
     backgroundColor: '#fff',
     padding: 16,
-    borderRadius: 8,
-    elevation: 3,
+    borderRadius: 10,
+    borderWidth:0.1,
+    elevation: 5,
   },
   title: {
     fontSize: 24,
